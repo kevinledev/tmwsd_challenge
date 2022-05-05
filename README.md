@@ -1,4 +1,16 @@
+## Kevin Le
+## How to run this project:
+1. Clone this repository
+2. In the root directory: `npm install`
+3. Navigate into the frontend folder ```cd frontend``` 
+4. While in the frontend folder: ```npm install```
+5. Navigate back to the root directory
+6. ```npm run dev```
+7. View the project on localhost:3000
+
 # This message will self-destruct
+
+
 
 A NodeJS programming challenge.
 
