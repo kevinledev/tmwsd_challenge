@@ -2,7 +2,7 @@
 
 
 ## Kevin Le
-## How to run this project (devs only):
+## How to run this project (MongoDB dev keys required):
 1. Clone this repository
 2. In the root directory: `npm install`
 3. Navigate into the frontend folder ```cd frontend``` 
